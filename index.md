@@ -4,11 +4,11 @@ You can use the [editor on GitHub](https://github.com/1506237/couponsgb.com/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Coupongb
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coupongb is website where your can download the coupons related to different platforms for free
 
-```markdown
+```coupongb
 Syntax highlighted code block
 
 # Header 1
